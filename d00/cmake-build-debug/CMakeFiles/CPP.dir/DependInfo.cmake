@@ -4,7 +4,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/mbodak/CLionProjects/CPP/d00/ex00/megaphone.cpp" "/Users/mbodak/CLionProjects/CPP/d00/cmake-build-debug/CMakeFiles/CPP.dir/ex00/megaphone.cpp.o"
+  "/nfs/2016/m/mbodak/Documents/CPP-Pool/d00/ex00/megaphone.cpp" "/nfs/2016/m/mbodak/Documents/CPP-Pool/d00/cmake-build-debug/CMakeFiles/CPP.dir/ex00/megaphone.cpp.o"
+  "/nfs/2016/m/mbodak/Documents/CPP-Pool/d00/ex01/Contact.class.cpp" "/nfs/2016/m/mbodak/Documents/CPP-Pool/d00/cmake-build-debug/CMakeFiles/CPP.dir/ex01/Contact.class.cpp.o"
+  "/nfs/2016/m/mbodak/Documents/CPP-Pool/d00/ex01/Phonebook.class.cpp" "/nfs/2016/m/mbodak/Documents/CPP-Pool/d00/cmake-build-debug/CMakeFiles/CPP.dir/ex01/Phonebook.class.cpp.o"
+  "/nfs/2016/m/mbodak/Documents/CPP-Pool/d00/ex01/main.cpp" "/nfs/2016/m/mbodak/Documents/CPP-Pool/d00/cmake-build-debug/CMakeFiles/CPP.dir/ex01/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

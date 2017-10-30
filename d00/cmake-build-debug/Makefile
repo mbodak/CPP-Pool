@@ -48,10 +48,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/mbodak/CLionProjects/CPP/d00
+CMAKE_SOURCE_DIR = /nfs/2016/m/mbodak/Documents/CPP-Pool/d00
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/mbodak/CLionProjects/CPP/d00/cmake-build-debug
+CMAKE_BINARY_DIR = /nfs/2016/m/mbodak/Documents/CPP-Pool/d00/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,9 +80,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/mbodak/CLionProjects/CPP/d00/cmake-build-debug/CMakeFiles /Users/mbodak/CLionProjects/CPP/d00/cmake-build-debug/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /nfs/2016/m/mbodak/Documents/CPP-Pool/d00/cmake-build-debug/CMakeFiles /nfs/2016/m/mbodak/Documents/CPP-Pool/d00/cmake-build-debug/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/mbodak/CLionProjects/CPP/d00/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /nfs/2016/m/mbodak/Documents/CPP-Pool/d00/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -150,6 +150,87 @@ ex00/megaphone.cpp.s:
 	$(MAKE) -f CMakeFiles/CPP.dir/build.make CMakeFiles/CPP.dir/ex00/megaphone.cpp.s
 .PHONY : ex00/megaphone.cpp.s
 
+ex01/Contact.class.o: ex01/Contact.class.cpp.o
+
+.PHONY : ex01/Contact.class.o
+
+# target to build an object file
+ex01/Contact.class.cpp.o:
+	$(MAKE) -f CMakeFiles/CPP.dir/build.make CMakeFiles/CPP.dir/ex01/Contact.class.cpp.o
+.PHONY : ex01/Contact.class.cpp.o
+
+ex01/Contact.class.i: ex01/Contact.class.cpp.i
+
+.PHONY : ex01/Contact.class.i
+
+# target to preprocess a source file
+ex01/Contact.class.cpp.i:
+	$(MAKE) -f CMakeFiles/CPP.dir/build.make CMakeFiles/CPP.dir/ex01/Contact.class.cpp.i
+.PHONY : ex01/Contact.class.cpp.i
+
+ex01/Contact.class.s: ex01/Contact.class.cpp.s
+
+.PHONY : ex01/Contact.class.s
+
+# target to generate assembly for a file
+ex01/Contact.class.cpp.s:
+	$(MAKE) -f CMakeFiles/CPP.dir/build.make CMakeFiles/CPP.dir/ex01/Contact.class.cpp.s
+.PHONY : ex01/Contact.class.cpp.s
+
+ex01/Phonebook.class.o: ex01/Phonebook.class.cpp.o
+
+.PHONY : ex01/Phonebook.class.o
+
+# target to build an object file
+ex01/Phonebook.class.cpp.o:
+	$(MAKE) -f CMakeFiles/CPP.dir/build.make CMakeFiles/CPP.dir/ex01/Phonebook.class.cpp.o
+.PHONY : ex01/Phonebook.class.cpp.o
+
+ex01/Phonebook.class.i: ex01/Phonebook.class.cpp.i
+
+.PHONY : ex01/Phonebook.class.i
+
+# target to preprocess a source file
+ex01/Phonebook.class.cpp.i:
+	$(MAKE) -f CMakeFiles/CPP.dir/build.make CMakeFiles/CPP.dir/ex01/Phonebook.class.cpp.i
+.PHONY : ex01/Phonebook.class.cpp.i
+
+ex01/Phonebook.class.s: ex01/Phonebook.class.cpp.s
+
+.PHONY : ex01/Phonebook.class.s
+
+# target to generate assembly for a file
+ex01/Phonebook.class.cpp.s:
+	$(MAKE) -f CMakeFiles/CPP.dir/build.make CMakeFiles/CPP.dir/ex01/Phonebook.class.cpp.s
+.PHONY : ex01/Phonebook.class.cpp.s
+
+ex01/main.o: ex01/main.cpp.o
+
+.PHONY : ex01/main.o
+
+# target to build an object file
+ex01/main.cpp.o:
+	$(MAKE) -f CMakeFiles/CPP.dir/build.make CMakeFiles/CPP.dir/ex01/main.cpp.o
+.PHONY : ex01/main.cpp.o
+
+ex01/main.i: ex01/main.cpp.i
+
+.PHONY : ex01/main.i
+
+# target to preprocess a source file
+ex01/main.cpp.i:
+	$(MAKE) -f CMakeFiles/CPP.dir/build.make CMakeFiles/CPP.dir/ex01/main.cpp.i
+.PHONY : ex01/main.cpp.i
+
+ex01/main.s: ex01/main.cpp.s
+
+.PHONY : ex01/main.s
+
+# target to generate assembly for a file
+ex01/main.cpp.s:
+	$(MAKE) -f CMakeFiles/CPP.dir/build.make CMakeFiles/CPP.dir/ex01/main.cpp.s
+.PHONY : ex01/main.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -162,6 +243,15 @@ help:
 	@echo "... ex00/megaphone.o"
 	@echo "... ex00/megaphone.i"
 	@echo "... ex00/megaphone.s"
+	@echo "... ex01/Contact.class.o"
+	@echo "... ex01/Contact.class.i"
+	@echo "... ex01/Contact.class.s"
+	@echo "... ex01/Phonebook.class.o"
+	@echo "... ex01/Phonebook.class.i"
+	@echo "... ex01/Phonebook.class.s"
+	@echo "... ex01/main.o"
+	@echo "... ex01/main.i"
+	@echo "... ex01/main.s"
 .PHONY : help
 
 

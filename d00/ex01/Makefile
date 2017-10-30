@@ -5,21 +5,20 @@
 #                                                     +:+ +:+         +:+      #
 #    By: mbodak <marvin@42.fr>                      +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
-#    Created: 2017/10/30 10:13:57 by mbodak            #+#    #+#              #
-#    Updated: 2017/10/30 10:14:48 by mbodak           ###   ########.fr        #
+#    Created: 2017/10/30 19:19:20 by mbodak            #+#    #+#              #
+#    Updated: 2017/10/30 19:19:28 by mbodak           ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
-NAME = megaphone
+NAME = phonebook
 
 CC = clang++
 
 FLAGS = -Wall -Wextra -Werror
 
-SRC = megaphone.cpp
+SRC = Contact.class.cpp main.cpp
 
 OBJ = $(SRC: .cpp = .o)
-
 
 all: $(NAME)
 

@@ -43,10 +43,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/mbodak/CLionProjects/CPP/d00
+CMAKE_SOURCE_DIR = /nfs/2016/m/mbodak/Documents/CPP-Pool/d00
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/mbodak/CLionProjects/CPP/d00/cmake-build-debug
+CMAKE_BINARY_DIR = /nfs/2016/m/mbodak/Documents/CPP-Pool/d00/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/CPP.dir/depend.make
@@ -59,16 +59,16 @@ include CMakeFiles/CPP.dir/flags.make
 
 CMakeFiles/CPP.dir/ex00/megaphone.cpp.o: CMakeFiles/CPP.dir/flags.make
 CMakeFiles/CPP.dir/ex00/megaphone.cpp.o: ../ex00/megaphone.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/mbodak/CLionProjects/CPP/d00/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CPP.dir/ex00/megaphone.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CPP.dir/ex00/megaphone.cpp.o -c /Users/mbodak/CLionProjects/CPP/d00/ex00/megaphone.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2016/m/mbodak/Documents/CPP-Pool/d00/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CPP.dir/ex00/megaphone.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CPP.dir/ex00/megaphone.cpp.o -c /nfs/2016/m/mbodak/Documents/CPP-Pool/d00/ex00/megaphone.cpp
 
 CMakeFiles/CPP.dir/ex00/megaphone.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPP.dir/ex00/megaphone.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/mbodak/CLionProjects/CPP/d00/ex00/megaphone.cpp > CMakeFiles/CPP.dir/ex00/megaphone.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/2016/m/mbodak/Documents/CPP-Pool/d00/ex00/megaphone.cpp > CMakeFiles/CPP.dir/ex00/megaphone.cpp.i
 
 CMakeFiles/CPP.dir/ex00/megaphone.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPP.dir/ex00/megaphone.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/mbodak/CLionProjects/CPP/d00/ex00/megaphone.cpp -o CMakeFiles/CPP.dir/ex00/megaphone.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/2016/m/mbodak/Documents/CPP-Pool/d00/ex00/megaphone.cpp -o CMakeFiles/CPP.dir/ex00/megaphone.cpp.s
 
 CMakeFiles/CPP.dir/ex00/megaphone.cpp.o.requires:
 
@@ -81,17 +81,95 @@ CMakeFiles/CPP.dir/ex00/megaphone.cpp.o.provides: CMakeFiles/CPP.dir/ex00/megaph
 CMakeFiles/CPP.dir/ex00/megaphone.cpp.o.provides.build: CMakeFiles/CPP.dir/ex00/megaphone.cpp.o
 
 
+CMakeFiles/CPP.dir/ex01/Contact.class.cpp.o: CMakeFiles/CPP.dir/flags.make
+CMakeFiles/CPP.dir/ex01/Contact.class.cpp.o: ../ex01/Contact.class.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2016/m/mbodak/Documents/CPP-Pool/d00/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/CPP.dir/ex01/Contact.class.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CPP.dir/ex01/Contact.class.cpp.o -c /nfs/2016/m/mbodak/Documents/CPP-Pool/d00/ex01/Contact.class.cpp
+
+CMakeFiles/CPP.dir/ex01/Contact.class.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPP.dir/ex01/Contact.class.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/2016/m/mbodak/Documents/CPP-Pool/d00/ex01/Contact.class.cpp > CMakeFiles/CPP.dir/ex01/Contact.class.cpp.i
+
+CMakeFiles/CPP.dir/ex01/Contact.class.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPP.dir/ex01/Contact.class.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/2016/m/mbodak/Documents/CPP-Pool/d00/ex01/Contact.class.cpp -o CMakeFiles/CPP.dir/ex01/Contact.class.cpp.s
+
+CMakeFiles/CPP.dir/ex01/Contact.class.cpp.o.requires:
+
+.PHONY : CMakeFiles/CPP.dir/ex01/Contact.class.cpp.o.requires
+
+CMakeFiles/CPP.dir/ex01/Contact.class.cpp.o.provides: CMakeFiles/CPP.dir/ex01/Contact.class.cpp.o.requires
+	$(MAKE) -f CMakeFiles/CPP.dir/build.make CMakeFiles/CPP.dir/ex01/Contact.class.cpp.o.provides.build
+.PHONY : CMakeFiles/CPP.dir/ex01/Contact.class.cpp.o.provides
+
+CMakeFiles/CPP.dir/ex01/Contact.class.cpp.o.provides.build: CMakeFiles/CPP.dir/ex01/Contact.class.cpp.o
+
+
+CMakeFiles/CPP.dir/ex01/main.cpp.o: CMakeFiles/CPP.dir/flags.make
+CMakeFiles/CPP.dir/ex01/main.cpp.o: ../ex01/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2016/m/mbodak/Documents/CPP-Pool/d00/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/CPP.dir/ex01/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CPP.dir/ex01/main.cpp.o -c /nfs/2016/m/mbodak/Documents/CPP-Pool/d00/ex01/main.cpp
+
+CMakeFiles/CPP.dir/ex01/main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPP.dir/ex01/main.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/2016/m/mbodak/Documents/CPP-Pool/d00/ex01/main.cpp > CMakeFiles/CPP.dir/ex01/main.cpp.i
+
+CMakeFiles/CPP.dir/ex01/main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPP.dir/ex01/main.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/2016/m/mbodak/Documents/CPP-Pool/d00/ex01/main.cpp -o CMakeFiles/CPP.dir/ex01/main.cpp.s
+
+CMakeFiles/CPP.dir/ex01/main.cpp.o.requires:
+
+.PHONY : CMakeFiles/CPP.dir/ex01/main.cpp.o.requires
+
+CMakeFiles/CPP.dir/ex01/main.cpp.o.provides: CMakeFiles/CPP.dir/ex01/main.cpp.o.requires
+	$(MAKE) -f CMakeFiles/CPP.dir/build.make CMakeFiles/CPP.dir/ex01/main.cpp.o.provides.build
+.PHONY : CMakeFiles/CPP.dir/ex01/main.cpp.o.provides
+
+CMakeFiles/CPP.dir/ex01/main.cpp.o.provides.build: CMakeFiles/CPP.dir/ex01/main.cpp.o
+
+
+CMakeFiles/CPP.dir/ex01/Phonebook.class.cpp.o: CMakeFiles/CPP.dir/flags.make
+CMakeFiles/CPP.dir/ex01/Phonebook.class.cpp.o: ../ex01/Phonebook.class.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/2016/m/mbodak/Documents/CPP-Pool/d00/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/CPP.dir/ex01/Phonebook.class.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CPP.dir/ex01/Phonebook.class.cpp.o -c /nfs/2016/m/mbodak/Documents/CPP-Pool/d00/ex01/Phonebook.class.cpp
+
+CMakeFiles/CPP.dir/ex01/Phonebook.class.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPP.dir/ex01/Phonebook.class.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/2016/m/mbodak/Documents/CPP-Pool/d00/ex01/Phonebook.class.cpp > CMakeFiles/CPP.dir/ex01/Phonebook.class.cpp.i
+
+CMakeFiles/CPP.dir/ex01/Phonebook.class.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPP.dir/ex01/Phonebook.class.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/2016/m/mbodak/Documents/CPP-Pool/d00/ex01/Phonebook.class.cpp -o CMakeFiles/CPP.dir/ex01/Phonebook.class.cpp.s
+
+CMakeFiles/CPP.dir/ex01/Phonebook.class.cpp.o.requires:
+
+.PHONY : CMakeFiles/CPP.dir/ex01/Phonebook.class.cpp.o.requires
+
+CMakeFiles/CPP.dir/ex01/Phonebook.class.cpp.o.provides: CMakeFiles/CPP.dir/ex01/Phonebook.class.cpp.o.requires
+	$(MAKE) -f CMakeFiles/CPP.dir/build.make CMakeFiles/CPP.dir/ex01/Phonebook.class.cpp.o.provides.build
+.PHONY : CMakeFiles/CPP.dir/ex01/Phonebook.class.cpp.o.provides
+
+CMakeFiles/CPP.dir/ex01/Phonebook.class.cpp.o.provides.build: CMakeFiles/CPP.dir/ex01/Phonebook.class.cpp.o
+
+
 # Object files for target CPP
 CPP_OBJECTS = \
-"CMakeFiles/CPP.dir/ex00/megaphone.cpp.o"
+"CMakeFiles/CPP.dir/ex00/megaphone.cpp.o" \
+"CMakeFiles/CPP.dir/ex01/Contact.class.cpp.o" \
+"CMakeFiles/CPP.dir/ex01/main.cpp.o" \
+"CMakeFiles/CPP.dir/ex01/Phonebook.class.cpp.o"
 
 # External object files for target CPP
 CPP_EXTERNAL_OBJECTS =
 
 CPP: CMakeFiles/CPP.dir/ex00/megaphone.cpp.o
+CPP: CMakeFiles/CPP.dir/ex01/Contact.class.cpp.o
+CPP: CMakeFiles/CPP.dir/ex01/main.cpp.o
+CPP: CMakeFiles/CPP.dir/ex01/Phonebook.class.cpp.o
 CPP: CMakeFiles/CPP.dir/build.make
 CPP: CMakeFiles/CPP.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/mbodak/CLionProjects/CPP/d00/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable CPP"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/nfs/2016/m/mbodak/Documents/CPP-Pool/d00/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable CPP"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/CPP.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -100,6 +178,9 @@ CMakeFiles/CPP.dir/build: CPP
 .PHONY : CMakeFiles/CPP.dir/build
 
 CMakeFiles/CPP.dir/requires: CMakeFiles/CPP.dir/ex00/megaphone.cpp.o.requires
+CMakeFiles/CPP.dir/requires: CMakeFiles/CPP.dir/ex01/Contact.class.cpp.o.requires
+CMakeFiles/CPP.dir/requires: CMakeFiles/CPP.dir/ex01/main.cpp.o.requires
+CMakeFiles/CPP.dir/requires: CMakeFiles/CPP.dir/ex01/Phonebook.class.cpp.o.requires
 
 .PHONY : CMakeFiles/CPP.dir/requires
 
@@ -108,6 +189,6 @@ CMakeFiles/CPP.dir/clean:
 .PHONY : CMakeFiles/CPP.dir/clean
 
 CMakeFiles/CPP.dir/depend:
-	cd /Users/mbodak/CLionProjects/CPP/d00/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/mbodak/CLionProjects/CPP/d00 /Users/mbodak/CLionProjects/CPP/d00 /Users/mbodak/CLionProjects/CPP/d00/cmake-build-debug /Users/mbodak/CLionProjects/CPP/d00/cmake-build-debug /Users/mbodak/CLionProjects/CPP/d00/cmake-build-debug/CMakeFiles/CPP.dir/DependInfo.cmake --color=$(COLOR)
+	cd /nfs/2016/m/mbodak/Documents/CPP-Pool/d00/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /nfs/2016/m/mbodak/Documents/CPP-Pool/d00 /nfs/2016/m/mbodak/Documents/CPP-Pool/d00 /nfs/2016/m/mbodak/Documents/CPP-Pool/d00/cmake-build-debug /nfs/2016/m/mbodak/Documents/CPP-Pool/d00/cmake-build-debug /nfs/2016/m/mbodak/Documents/CPP-Pool/d00/cmake-build-debug/CMakeFiles/CPP.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/CPP.dir/depend
 
