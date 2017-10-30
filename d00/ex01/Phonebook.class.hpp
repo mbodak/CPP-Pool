@@ -15,9 +15,9 @@ public:
     Phonebook(void);
     ~Phonebook(void);
 
-//    void AddContact(Contact *contact);
-//    Contact	*GetContact(int index);
-//    void SomeContact(void (Contact::*func)(void));
+    void AddContact(Contact *contact);
+    Contact	*GetContact(int index);
+    void SomeContact(void (Contact::*func)(void));
 
 };
 #endif

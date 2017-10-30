@@ -2,7 +2,9 @@
 #ifndef CPP_CONTACT_CLASS_H
 #define CPP_CONTACT_CLASS_H
 # include <iostream>
+# include <string>
 # include <cstring>
+#include <iomanip>
 # include <cstdlib>
 
 

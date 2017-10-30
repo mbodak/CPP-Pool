@@ -8,8 +8,9 @@ int     main() {
     int index;
     char buffer[512];
 
+    Phonebook phonebook;
     Contact contact;
-//    Contact *contact_x;
+    Contact *contact_x;
 
 
     std::cout << "Please, enter ADD, EXIT or SEARCH" << std::endl;
@@ -27,12 +28,12 @@ int     main() {
 
         if (strcmp(buffer, "search") == 0) {
             std::cout << "     index|first name| last name|  nickname|" << std::endl;
-//            phonebook.SomeContact(&Contact::printing);
+            phonebook.SomeContact(&Contact::printing);
             std::cout << "Add an index to get more information." << std::endl;
             std::cin >> buffer;
             i = std::atoi(buffer);
-//            if ((contact_x = phonebook.GetContact(i)))
-//                contact_x->printing_information();
+            if ((contact_x = phonebook.GetContact(i)))
+                contact_x->printing_information();
         }
 
         else if (strcmp(buffer, "add") == 0) {
@@ -64,7 +65,7 @@ int     main() {
                 std::cout << "Enter your darkest secret:" << std::endl;
                 std::cin >> contact.darkest_secret;
                 contact.index = index;
-//              phonebook.AddContact(&contact);
+                phonebook.AddContact(&contact);
                 index++;
             }
         }

@@ -1,0 +1,3 @@
+/Users/mbodak/Documents/CLionProjects/CPP-Pool/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/mbodak/Documents/CLionProjects/CPP-Pool/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mbodak/Documents/CLionProjects/CPP-Pool/cmake-build-debug/CMakeFiles/CPP_Pool.dir
