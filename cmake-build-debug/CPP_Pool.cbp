@@ -100,6 +100,9 @@
 		<Unit filename="/Users/mbodak/Documents/CLionProjects/CPP-Pool/d00/ex01/main.cpp">
 			<Option target="CPP_Pool"/>
 		</Unit>
+		<Unit filename="/Users/mbodak/Documents/CLionProjects/CPP-Pool/d00/ex02/Account.class.cpp">
+			<Option target="CPP_Pool"/>
+		</Unit>
 		<Unit filename="/Users/mbodak/Documents/CLionProjects/CPP-Pool/d00/main.cpp">
 			<Option target="CPP_Pool"/>
 		</Unit>

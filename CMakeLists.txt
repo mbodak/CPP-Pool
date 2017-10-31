@@ -10,6 +10,6 @@ set(SOURCE_FILES
         d00/ex01/main.cpp
         d00/ex01/Phonebook.class.cpp
         d00/ex01/Phonebook.class.hpp
-        d00/main.cpp)
+        d00/main.cpp d00/ex02/Account.class.cpp)
 
 add_executable(CPP_Pool ${SOURCE_FILES})

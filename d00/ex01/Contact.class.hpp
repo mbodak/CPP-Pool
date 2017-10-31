@@ -29,7 +29,6 @@ public:
 
     void printing(void);
     void printing_information(void);
-
 };
 
 #endif

@@ -37,8 +37,8 @@ int     main() {
         }
 
         else if (strcmp(buffer, "add") == 0) {
-            if(index >= 10) {
-                std::cout << "The phonebook is full. You have to restart program!" << std::endl;
+            if (index > 8) {
+                std::cout << "The phonebook is full. You have to restart program or enter other command." << std::endl;
             }
             else
             {

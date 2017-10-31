@@ -4,6 +4,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/CPP_Pool.dir/d00/ex01/main.cpp.o"
   "CMakeFiles/CPP_Pool.dir/d00/ex01/Phonebook.class.cpp.o"
   "CMakeFiles/CPP_Pool.dir/d00/main.cpp.o"
+  "CMakeFiles/CPP_Pool.dir/d00/ex02/Account.class.cpp.o"
   "CPP_Pool.pdb"
   "CPP_Pool"
 )

@@ -12,12 +12,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96713b97-b78a-47d1-b448-2537d31c187f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/d00/ex01/phonebook" afterPath="$PROJECT_DIR$/d00/ex01/phonebook" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/d00/ex01/Contact.class.cpp" afterPath="$PROJECT_DIR$/d00/ex01/Contact.class.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/d00/ex02/Account.class.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CMakeLists.txt" afterPath="$PROJECT_DIR$/CMakeLists.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPP_Pool.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPP_Pool.dir/DependInfo.cmake" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPP_Pool.dir/build.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPP_Pool.dir/build.make" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPP_Pool.dir/cmake_clean.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPP_Pool.dir/cmake_clean.cmake" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPP_Pool.dir/link.txt" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPP_Pool.dir/link.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPP_Pool.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPP_Pool.dir/progress.make" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CPP_Pool.cbp" afterPath="$PROJECT_DIR$/cmake-build-debug/CPP_Pool.cbp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/d00/ex01/Contact.class.hpp" afterPath="$PROJECT_DIR$/d00/ex01/Contact.class.hpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/d00/ex01/Makefile" afterPath="$PROJECT_DIR$/d00/ex01/Makefile" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/d00/ex01/Phonebook.class.cpp" afterPath="$PROJECT_DIR$/d00/ex01/Phonebook.class.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/d00/ex01/Phonebook.class.hpp" afterPath="$PROJECT_DIR$/d00/ex01/Phonebook.class.hpp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/d00/ex01/main.cpp" afterPath="$PROJECT_DIR$/d00/ex01/main.cpp" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
@@ -29,80 +39,62 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.4948097">
-      <split-first>
-        <leaf>
-          <file leaf-file-name="Contact.class.cpp" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/d00/ex01/Contact.class.cpp">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-625">
-                  <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="Phonebook.class.cpp" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/d00/ex01/Phonebook.class.cpp">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-70">
-                  <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="main.cpp" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/d00/ex01/main.cpp">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="375">
-                  <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-                  <folding>
-                    <element signature="e#1#30#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file leaf-file-name="Contact.class.hpp" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/d00/ex01/Contact.class.hpp">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="180">
-                  <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
-                  <folding>
-                    <element signature="e#57#77#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="Phonebook.class.hpp" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/d00/ex01/Phonebook.class.hpp">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="285">
-                  <caret line="19" column="46" lean-forward="false" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="Makefile" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/d00/ex01/Makefile">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="270">
-                  <caret line="18" column="44" lean-forward="false" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf>
+      <file leaf-file-name="Contact.class.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/d00/ex01/Contact.class.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Contact.class.hpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/d00/ex01/Contact.class.hpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="395">
+              <caret line="31" column="2" lean-forward="true" selection-start-line="31" selection-start-column="2" selection-end-line="31" selection-end-column="2" />
+              <folding>
+                <element signature="e#57#77#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/d00/ex01/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="363">
+              <caret line="43" column="13" lean-forward="true" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
+              <folding>
+                <element signature="e#1#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Phonebook.class.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/d00/ex01/Phonebook.class.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="182">
+              <caret line="14" column="12" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="14" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Phonebook.class.hpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/d00/ex01/Phonebook.class.hpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -111,11 +103,15 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/d00/ex01/Makefile" />
-        <option value="$PROJECT_DIR$/d00/ex01/Phonebook.class.hpp" />
-        <option value="$PROJECT_DIR$/d00/ex01/main.cpp" />
-        <option value="$PROJECT_DIR$/d00/ex01/Contact.class.hpp" />
         <option value="$PROJECT_DIR$/d00/ex01/Contact.class.cpp" />
+        <option value="$PROJECT_DIR$/d00/ex02/Account.class.cpp" />
+        <option value="$PROJECT_DIR$/d00/ex02/Account.class.hpp" />
+        <option value="$PROJECT_DIR$/d00/ex02/tests.cpp" />
+        <option value="$PROJECT_DIR$/d00/ex02/19920104_091532.log" />
         <option value="$PROJECT_DIR$/d00/ex01/Phonebook.class.cpp" />
+        <option value="$PROJECT_DIR$/d00/ex01/Phonebook.class.hpp" />
+        <option value="$PROJECT_DIR$/d00/ex01/Contact.class.hpp" />
+        <option value="$PROJECT_DIR$/d00/ex01/main.cpp" />
       </list>
     </option>
   </component>
@@ -150,17 +146,6 @@
             <path>
               <item name="CPP_Pool" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
               <item name="CPP-Pool" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CPP_Pool" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
-              <item name="CPP-Pool" type="462c0819:PsiDirectoryNode" />
-              <item name="d00" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CPP_Pool" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
-              <item name="CPP-Pool" type="462c0819:PsiDirectoryNode" />
-              <item name="d00" type="462c0819:PsiDirectoryNode" />
-              <item name="ex01" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -205,12 +190,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1509400262234</updated>
-      <workItem from="1509400264872" duration="2305000" />
+      <workItem from="1509400264872" duration="6016000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2305000" />
+    <option name="totallyTimeSpent" value="6016000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -243,7 +228,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -251,24 +238,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d00/ex01/Contact.class.hpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
-          <folding>
-            <element signature="e#57#77#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d00/ex01/Phonebook.class.hpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="46" lean-forward="false" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
           <folding />
         </state>
       </provider>
@@ -281,29 +250,111 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/d00/ex01/Phonebook.class.cpp">
+    <entry file="file://$PROJECT_DIR$/d00/ex02/ressources/tests.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-70">
-          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/d00/ex01/main.cpp">
+    <entry file="file://$PROJECT_DIR$/d00/ex02/ressources/19920104_091532.log">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-          <folding>
-            <element signature="e#1#30#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="-200">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/d00/ex02/ressources/Account.class.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="505">
+          <caret line="39" column="36" lean-forward="true" selection-start-line="39" selection-start-column="36" selection-end-line="39" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/d00/ex02/Account.class.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="571">
+          <caret line="43" column="33" lean-forward="false" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/d00/ex02/tests.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="46" column="80" lean-forward="false" selection-start-line="46" selection-start-column="67" selection-end-line="46" selection-end-column="80" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/d00/ex02/19920104_091532.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="76" column="43" lean-forward="true" selection-start-line="76" selection-start-column="43" selection-end-line="76" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/d00/ex02/Account.class.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/sys/_types/_null.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/d00/ex01/Phonebook.class.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/d00/ex01/Phonebook.class.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="14" column="12" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="14" selection-end-column="12" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/d00/ex01/Contact.class.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-625">
-          <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+        <state relative-caret-position="270">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/d00/ex01/Contact.class.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="31" column="2" lean-forward="true" selection-start-line="31" selection-start-column="2" selection-end-line="31" selection-end-column="2" />
+          <folding>
+            <element signature="e#57#77#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/d00/ex01/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="43" column="13" lean-forward="true" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
+          <folding>
+            <element signature="e#1#30#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
